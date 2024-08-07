@@ -57,7 +57,7 @@
       "@value": "NicolasCerny"
     },
     "email": {
-      "@value": ""
+      "@value": "test@test.test"
     },
     "references": [
       {
@@ -67,6 +67,15 @@
         },
         "uri": {
           "@value": "https://x.com/NicolasC3rny"
+        }
+      },
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Label"
+        },
+        "uri": {
+          "@value": "https://www.linkedin.com/in/nicolas-cerny-892754193/"
         }
       }
     ]
