@@ -35,8 +35,8 @@
         "givenName": "",
         "image": {
             "@type": "ImageObject",
-            "contentUrl": "",
-            "sha256": ""
+            "contentUrl": "https://thenic95.github.io/drep/NicolasCerny.jpg",
+            "sha256": "9157e751dbdcefea039864b5132bd429eb43444c8dac5af2d1c56a9f7f5dbb95"
         },
         "objectives": ".",
         "motivations": "",
