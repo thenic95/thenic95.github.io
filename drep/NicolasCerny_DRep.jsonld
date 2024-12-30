@@ -38,19 +38,44 @@
             "contentUrl": "https://thenic95.github.io/drep/NicolasCerny.jpg",
             "sha256": "9157e751dbdcefea039864b5132bd429eb43444c8dac5af2d1c56a9f7f5dbb95"
         },
-        "objectives": ".",
+        "objectives": "",
         "motivations": "",
         "qualifications": "",
         "references": [
           {
             "@type": "Other",
-            "label": "",
-            "uri": ""
+            "label": "Voltaire Report 2023",
+            "uri": "https://forum.cardano.org/t/voltaire-report-navigating-the-new-age-of-cardano-governance/120660"
+          },
+          {
+            "@type": "Other",
+            "label": "CIP-1694 Initial Governance Settings",
+            "uri": "https://docs.google.com/document/d/1osTRntekCmiOrcEznSlwvPzN-cGAw-XKnmmZHNZbeok/edit?tab=t.0#heading=h.qnyt3axp5sv5"
+          },
+          {
+            "@type": "Other",
+            "label": "Webinar: Fundamentals of Cardano Governance",
+            "uri": "https://www.youtube.com/live/y2kTmw6rdTw?feature=shared"
+          },
+          {
+            "@type": "Other",
+            "label": "Masterclass: Mastering Protocol Parameters",
+            "uri": "https://youtu.be/eY3G1_lCqio?feature=shared"
           },
           {
             "@type": "Link",
-            "label": "",
-            "uri": ""
+            "label": "X Profile",
+            "uri": "https://x.com/NicolasC3rny"
+          },
+          {
+            "@type": "Link",
+            "label": "LinkedIn Profile",
+            "uri": "https://www.linkedin.com/in/nicolas-cerny-892754193/"
+          },
+          {
+            "@type": "Link",
+            "label": "GitHub Profile",
+            "uri": "https://github.com/thenic95"
           }
         ]
     }
