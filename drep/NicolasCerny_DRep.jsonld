@@ -45,47 +45,7 @@
         "objectives": "Every ada holder, regardless of the amount they hold, plays a crucial role in driving Cardano's progress and ensuring its long-term success. As a DRep, I focus on building a strong ecosystem centered on three core pillars: adoption, economic sustainability, and exceptional user and developer experiences. I am deeply committed to advocating for adoption, a key driver of Cardano's future success. This advocacy will lead to higher transaction volumes, ensuring Cardano's economic sustainability, the development of tools that simplify and enhance the developer journey, and user-friendly interfaces that make Cardano accessible to everyone. I aim to achieve these goals through constructive collaboration with other DReps, SPOs, and the Constitutional Committee while maintaining radical transparency by openly sharing my vote rationales. I aim to earn the community's trust so they feel confident delegating their voting power to me, knowing I will represent their interests responsibly.",
         "motivations": "My motivation to become a DRep stems from a lifelong interest in democratic governance and a firm belief in collective decision-making. My professional journey includes beta-testing governance features, drafting the Cardano Constitution, and educating the community about on-chain governance through webinars and workshops. This role is an opportunity to empower the Cardano community with knowledge and tools to participate effectively in governance. By demonstrating what it means to be a DRep, I hope to inspire others to engage in this vital process.",
         "qualifications": "My qualifications are extensive and reflect a deep commitment to Cardano's governance. I have served as Governance Lead for the Cardano Foundation, a Civics Committee Member, and a Parameter Committee Member. I have hosted and led workshops on CIP-1694 and the Cardano Constitution, authored the Voltaire Report 2023, and recorded webinars on governance fundamentals and protocol parameters. As a drafter of the delegate-approved Cardano Constitution, I bring both practical experience and strategic insights to this role. My work reflects a commitment to transparency, collaboration, and informed decision-making. With this wealth of experience, I am well-prepared to serve as your DRep.",
-        "references": [
-          {
-            "@type": "Other",
-            "label": "Voltaire Report 2023",
-            "uri": "https://forum.cardano.org/t/voltaire-report-navigating-the-new-age-of-cardano-governance/120660"
-          },
-          {
-            "@type": "Other",
-            "label": "CIP-1694 Initial Governance Settings Report",
-            "uri": "https://docs.google.com/document/d/1osTRntekCmiOrcEznSlwvPzN-cGAw-XKnmmZHNZbeok/edit?usp=sharing"
-          },
-          {
-            "@type": "Other",
-            "label": "Webinar: Fundamentals of Cardano Governance",
-            "uri": "https://www.youtube.com/live/y2kTmw6rdTw?feature=shared"
-          },
-          {
-            "@type": "Other",
-            "label": "Masterclass: Mastering Protocol Parameters",
-            "uri": "https://youtu.be/eY3G1_lCqio?feature=shared"
-          },
-          {
-            "@type": "Other",
-            "label": "Delegate-Endorsed Cardano Constitution Draft",
-            "uri": "https://github.com/IntersectMBO/draft-constitution/blob/main/2024-12-05/draft-constitution-converted.md"
-          },
-          {
-            "@type": "Other",
-            "label": "CIP-1694 Workshop (Zug)",
-            "uri": "https://youtu.be/xItSyRCo0Qw?feature=shared"
-          },
-          {
-            "@type": "Other",
-            "label": "Constitutional Workshop (Berlin 1)",
-            "uri": "https://forum.cardano.org/t/recap-of-cardano-constitutional-workshop-building-a-sustainable-future-for-the-blockchain-ecosystem/134772"
-          },
-          {
-            "@type": "Other",
-            "label": "Constitutional Workshop (Vienna)",
-            "uri": "https://forum.cardano.org/t/shaping-the-cardano-constitution-constitutional-workshop-vienna-2024/137193"
-          },                    
+        "references": [                    
           {
             "@type": "Link",
             "label": "X Profile",
@@ -100,6 +60,16 @@
             "@type": "Link",
             "label": "GitHub Profile",
             "uri": "https://github.com/thenic95"
+          },
+          {
+            "@type": "Other",
+            "label": "References",
+            "uri": "https://thenic95.github.io/drep/NicolasCerny_DRep_References.md"
+          },
+          {
+            "@type": "Other",
+            "label": "Disclosures",
+            "uri": "https://thenic95.github.io/drep/NicolasCerny_DRep_Disclosures.md"
           }
         ]
     }
