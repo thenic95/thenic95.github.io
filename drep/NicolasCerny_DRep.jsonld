@@ -16,8 +16,10 @@
                         "uri": "CIP100:reference-uri"
                     }
                 },
+                "email": "CIP119:email",
                 "paymentAddress": "CIP119:paymentAddress",
                 "givenName": "CIP119:givenName",
+                "nationality": "CIP119:nationality",
                 "image": {
                     "@id": "CIP119:image",
                     "@context": {
@@ -32,7 +34,9 @@
     },
     "hashAlgorithm": "blake2b-256",
     "body": {
+        "email": "cardano.governance@proton.me",
         "givenName": "Nicolas Cerny",
+        "nationality": "Austria",
         "image": {
             "@type": "ImageObject",
             "contentUrl": "https://thenic95.github.io/drep/NicolasCerny.jpg",
