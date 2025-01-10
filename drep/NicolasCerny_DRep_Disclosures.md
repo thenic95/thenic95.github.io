@@ -1,3 +1,8 @@
+---
+layout: default
+title: DRep Disclosure Form
+---
+
 ### DRep Disclosure Form
 
 #### **Identity**
