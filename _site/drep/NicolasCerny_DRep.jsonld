@@ -64,12 +64,12 @@
           {
             "@type": "Other",
             "label": "References",
-            "uri": "https://thenic95.github.io/drep/NicolasCerny_DRep_References"
+            "uri": "https://thenic95.github.io/drep/NicolasCerny_DRep_References.md"
           },
           {
             "@type": "Other",
             "label": "Disclosures",
-            "uri": "https://thenic95.github.io/drep/NicolasCerny_DRep_Disclosures"
+            "uri": "https://thenic95.github.io/drep/NicolasCerny_DRep_Disclosures.md"
           }
         ]
     }
