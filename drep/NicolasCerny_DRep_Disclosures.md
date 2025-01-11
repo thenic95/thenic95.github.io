@@ -10,16 +10,20 @@ title: DRep Disclosure Form
 - **Name:** Nicolas Cerny
 - **Affiliations:** Governance Lead, Cardano Foundation
 - **Contact Information:** 
-  - Email: cardano.governance@proton.me
-  - X: https://x.com/NicolasC3rny
-  - LinkedIn: https://www.linkedin.com/in/nicolas-cerny-892754193/
+  - Email: [cardano.governance@proton.me](mailto:cardano.governance@proton.me)
+  - [X Profile](https://x.com/NicolasC3rny)
+  - [LinkedIn Profile](https://www.linkedin.com/in/nicolas-cerny-892754193/)
 
 ## **Roles and Responsibilities**
 
 - Governance Lead, Cardano Foundation
-- Intersect Individual Founding Member
+- Intersect Member
+- Participating in various committees, groups and interest groups of Intersect:
   - Parameter Committee Member
+    - Governance Parameters Working Group
   - Civics Committee Member
+    - Governance Support Working Group
+    - Constitution Drafting and Ratification Working Group
   - Budget Committee Observer
 
 ## **Competence**
