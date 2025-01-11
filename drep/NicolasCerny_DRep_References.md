@@ -1,6 +1,7 @@
 # Nicolas Cerny DRep References
 
 ## Reports and Official Documents
+
 - **Voltaire Report 2023**  
   - *Description*: A comprehensive overview of Cardano's governance progress and future directions.  
   - *Link*: [Voltaire Report 2023](https://forum.cardano.org/t/voltaire-report-navigating-the-new-age-of-cardano-governance/120660)
@@ -13,9 +14,14 @@
   - *Description*: The draft constitution endorsed by delegates at the Constitutional Convention in Buenos Aires and Nairobi.  
   - *Link*: [Cardano Constitution Draft](https://github.com/IntersectMBO/draft-constitution/blob/main/2024-12-05/draft-constitution-converted.md)
 
+- **Cardano Governance Parameter Overview Report**
+  - *Description*: A comprehensive guide to the governance parameters introduced with CIP-1694, categorizing and explaining their purpose in enabling Cardano's on-chain governance model.
+  - *Link*: [Cardano Governance Parameter Overview](https://github.com/thenic95/cardano-governance/blob/main/Reports/Cardano%20Governance%20Parameter/cardano-governance-parameter-overview.md)
+  
 ---
 
 ## Educational Content
+
 - **Webinar: Fundamentals of Cardano Governance**  
   - *Description*: A webinar covering the basics of Cardano governance, including the governance roles (DReps, SPOs and CC), the seven governance action types, and the decision-making process in Cardano.  
   - *Link*: [Fundamentals of Cardano Governance](https://www.youtube.com/live/y2kTmw6rdTw?feature=shared)
@@ -27,6 +33,7 @@
 ---
 
 ## Workshops and Events
+
 - **CIP-1694 Workshop (Zug)**  
   - *Description*: Highlights and takeaways from the workshop focused on CIP-1694 governance implementation.  
   - *Link*: [CIP-1694 Workshop (Zug)](https://youtu.be/xItSyRCo0Qw?feature=shared)
