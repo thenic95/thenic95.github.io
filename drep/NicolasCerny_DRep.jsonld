@@ -35,6 +35,7 @@
     "hashAlgorithm": "blake2b-256",
     "body": {
         "email": "cardano.governance@proton.me",
+        "paymentAddress": "addr1q97jzrz0azj9lmt4ajfu34ct3lzmxuml2ehky2kdxqe5nlz6cud77pl4d3r8qag0j4ufjj7xwm8927edczlwgzwgc4sqz7kwmg",
         "givenName": "Nicolas Cerny",
         "nationality": "Austria",
         "image": {
