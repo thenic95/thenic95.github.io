@@ -1,4 +1,4 @@
-# Nicolas Cerny - DRep Voting Rationale
+# DRep Voting Rationale for Governance Action: Cardano Constitution to Replace the Interim Constitution
 
 I am voting Yes as a DRep on governance action ID `gov_action133jnaewfsq8x6v08ndd87l2yqryp63r30t2dkceacxx5cply5n7sqzlcyqf`, which seeks to replace the Interim Constitution with the delegate-approved Constitution, approved at the Constitutional Convention in Buenos Aires and Nairobi in December 2024. My vote is based not on my involvement in co-drafting the document, but on the clear improvements it offers over the Interim Constitution, which lacked extensive community consultation and feedback.
 
