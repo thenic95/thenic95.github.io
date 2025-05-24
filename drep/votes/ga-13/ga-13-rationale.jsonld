@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP100:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP100:referenceHash",
+              "@context": {
+                "hashDigest": "CIP100:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "comment": "CIP100:comment",
+        "externalUpdates": {
+          "@id": "CIP100:externalUpdates",
+          "@context": {
+            "title": "CIP100:update-title",
+            "uri": "CIP100:uri"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "body": {
+    "comment": "As a DRep I vote **NO** on governance action `gov_action10k0unljvaej0kd89w7pn0zkgdx59c7xkl0x5q78dzvdtd73u0kmqq5xl5y5`, which seeks to set the Net Change Limit (NCL) for 2025 at **200 million ada**. While the Constitution permits adjusting the NCL at any time, doing so too frequently undermines confidence in Cardano’s fiscal policy.\n\nA predictable NCL lets builders craft reliable budgets; without that stability many teams may hesitate to develop on Cardano.\n\nThe proposal also offers no rationale for why **200 million ada** would be superior to the current **350 million ada** limit.\n\nFor future NCL decisions, ideally starting with 2026, I recommend submitting several NCL info governance actions **simultaneously**, each covering the same period (1 January – 31 December) but with different withdrawal ceilings. Presenting, for example, five or six options that range from deficit spending to a potential surplus (relative to the previous 12 months of treasury inflows) would give DReps a more nuanced choice and help them record their preferences accurately.\n\nIf multiple NCL actions reach the constitutionally required >50 % active DRep stake at expiry, the action that secures the **highest number of YES votes** should be considered binding."
+  },
+  "hashAlgorithm": "blake2b-256"
+}
