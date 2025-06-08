@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP100:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP100:referenceHash",
+              "@context": {
+                "hashDigest": "CIP100:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "comment": "CIP100:comment",
+        "externalUpdates": {
+          "@id": "CIP100:externalUpdates",
+          "@context": {
+            "title": "CIP100:update-title",
+            "uri": "CIP100:uri"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "body": {
+    "comment": "After a thorough review of the budget proposal for the Amaru Node Development project, I will vote **YES** on this governance action (gov_action1h4ygjv0hjfj3lmafcm76rpdzcm8vsvj9k5wejn3npyxwxm3fesnqqw9kxxz).\n\nThe Amaru project is of significant strategic importance to the Cardano ecosystem. Developing a second, Rust-based, fully interoperable block-producing node alongside the existing Haskell implementation is crucial for enhancing network resilience, furthering decentralization, and improving the overall robustness of Cardano. This initiative also promises to lower barriers for new developers to contribute to Cardano's core infrastructure by leveraging the Rust programming language. This aligns directly with the core development principles essential for the long-term health and sustainability of the ecosystem.\n\nThe project is spearheaded by a highly capable and specialized maintainer committee, composed of individuals with proven track records within the Cardano community. The involvement of PRAGMA, a consortium of established ecosystem entities, further instills confidence in the project's governance and execution.\n\nFrom a fiscal perspective, the requested 1.5 million ada for the second half of 2025 represents excellent value for money, especially considering the scope and potential impact of delivering a second mainnet-capable block-producing node. The clearly defined scope and detailed budget breakdown facilitate a transparent assessment.\n\nFurthermore, the proposed mechanisms for fund administration, utilizing an open-source smart contract with built-in failsafes and overseen by the maintainer committee, coupled with commitments to regular reporting and public demos, provide a strong framework for accountability and transparency. The proposal also appropriately addresses auditing provisions.\n\nGiven the strategic importance of node diversity, the strength of the team, the clear value proposition, and the robust governance measures outlined, I believe this budget proposal warrants strong support from the DReps. Funding Amaru is a direct investment in the future resilience, decentralization, and innovation of the Cardano blockchain."
+  },
+  "hashAlgorithm": "blake2b-256"
+}
