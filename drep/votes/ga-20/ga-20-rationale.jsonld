@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP100:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP100:referenceHash",
+              "@context": {
+                "hashDigest": "CIP100:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "comment": "CIP100:comment",
+        "externalUpdates": {
+          "@id": "CIP100:externalUpdates",
+          "@context": {
+            "title": "CIP100:update-title",
+            "uri": "CIP100:uri"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "body": {
+    "comment": "I vote YES on the governance action \"Cardano GovTool Budget - 12 months full active maintenance and development\" (gov_action1n5sn54mgf47a7men2ryq6ppx88kta4wvenz2qkl4f9v6ppje8easqxwm88m).\n\nI believe the core value of governance accessibility is key, meaning that any ada holder should be able to participate in Cardano Governance, regardless of their technical proficiency. GovTools makes Cardano governance accessible, it allows the normal ada holder to directly participate: register as a DRep, delegate to a DRep, vote as a DRep, and even proposing governance actions.\n\nGiven my commitment to accessibility, I have a responsibility to support initiatives that uphold and strengthen this principle. The GovTools budget info action requests 1.15M ada, with a notable allocation of 250k ada specifically designated for direct community contributions. This earmarked amount (level 2 funding) supports not only GovTools but also other governance tool builders, which is commendable and beneficial for fostering a diverse ecosystem.\n\nAnother compelling factor is that GovTools operates as open-source software. Funding from the treasury would therefore support a public good available to all, rather than proprietary software benefiting only a select group. This openness encourages further innovation, allowing others to build upon GovTools and develop competing governance tools, thus reducing the risk of monopoly.\n\nMoreover, the GovTools team has demonstrated transparency and community-mindedness by proactively sharing tutorials on how to deploy individual instances of GovTools(https://docs.gov.tools/cardano-govtool/run-govtool-locally/getting-started). Such transparency enhances trust and ensures broader community participation and oversight.\n\nHowever, I would advise the GovTools team to maintain a clear focus on essential governance functionalities: delegation, voting, governance action submission, and providing a robust data layer for on-chain governance. Prioritizing these core areas, along with ensuring adherence to open data standards, will help avoid creating isolated silos, further promoting interoperability and ease of use within our governance ecosystem.\n\nUltimately, this proposal represents a valuable investment in sustaining and enhancing accessible, and transparent governance on Cardano."
+  },
+  "hashAlgorithm": "blake2b-256"
+}
